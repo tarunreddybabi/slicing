@@ -1,0 +1,2 @@
+# slicing
+split,slice ,trim
